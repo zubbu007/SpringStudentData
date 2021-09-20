@@ -1,0 +1,16 @@
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\exception\StudentAlreadyExistsException.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\config\SwaggerUIConfig.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\controller\StudentControlller.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\ServletInitializer.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\SwaggerMain.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\exception\CentralizedExceptionHandler.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\entities\Course.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\entities\Student.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\exception\StudentNotFoundException.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\dao\IStudentDao.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\service\StudentServiceImpl.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\dto\StudentDetails.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\service\IStudentService.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\util\StudentUtil.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\dto\CourseDetails.java
+C:\workspace\SpringDataSwagger\src\main\java\com\cg\student\dto\CreateStudentRequest.java
